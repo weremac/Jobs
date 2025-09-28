@@ -1,0 +1,85 @@
+{
+  "mesec": "Oktobar",
+  "godina": 2025,
+  "nedeljniFond": 4,
+  "ciljeviMeseca": [
+    "Završetak poglavlja 'Racionalni izrazi'",
+    "Početak rada na trigonometriji",
+    "Uspostavljanje veštine rešavanja složenijih algebarskih zadataka",
+    "Priprema za polugodišnji test"
+  ],
+  "units": [
+    {
+      "jedinica": "Racionalni izrazi - Pojednostavljivanje",
+      "nedelja": "1",
+      "casovi": 4,
+      "ciljevi": [
+        "Učenik pojednostavljuje racionalne izraze",
+        "Učenik identifikuje zajedničke faktore",
+        "Učenik primenjuje pravila za pojednostavljivanje"
+      ],
+      "domaci": "Vežbe 1-5 iz udžbenika, strana 45-47",
+      "napomene": "Posebna pažnja na učenike koji imaju poteškoće sa algebarskim operacijama"
+    },
+    {
+      "jedinica": "Racionalni izrazi - Sabiranje i oduzimanje",
+      "nedelja": "2",
+      "casovi": 4,
+      "ciljevi": [
+        "Učenik sabira racionalne izraze",
+        "Učenik oduzima racionalne izraze",
+        "Učenik pronalazi zajednički imenilac"
+      ],
+      "domaci": "Vežbe 6-10 iz udžbenika, strana 48-50",
+      "napomene": "Koristiti vizuelne pomoćne materijale za bolje razumevanje"
+    },
+    {
+      "jedinica": "Racionalni izrazi - Množenje i deljenje",
+      "nedelja": "3",
+      "casovi": 4,
+      "ciljevi": [
+        "Učenik množi racionalne izraze",
+        "Učenik deli racionalne izraze",
+        "Učenik primenjuje pravila za operacije"
+      ],
+      "domaci": "Vežbe 11-15 iz udžbenika, strana 51-53",
+      "napomene": "Test formativnog ocenjivanja na kraju nedelje"
+    },
+    {
+      "jedinica": "Racionalni izrazi - Rešavanje jednačina",
+      "nedelja": "4",
+      "casovi": 4,
+      "ciljevi": [
+        "Učenik rešava jednačine sa racionalnim izrazima",
+        "Učenik proverava rešenja",
+        "Učenik identifikuje strana rešenja"
+      ],
+      "domaci": "Vežbe 16-20 iz udžbenika, strana 54-56",
+      "napomene": "Sumativni test na kraju nedelje"
+    }
+  ],
+  "assessmentEvents": [
+    {
+      "tip": "formativno",
+      "datum": "2025-10-15",
+      "opis": "Kratki kviz - pojednostavljivanje racionalnih izraza",
+      "casovi": 1
+    },
+    {
+      "tip": "summativno",
+      "datum": "2025-10-29",
+      "opis": "Test - racionalni izrazi (sve operacije)",
+      "casovi": 1
+    }
+  ],
+  "realizacija": {
+    "procenat": 85,
+    "komentari": "Mesec je prošao uspešno. Učenici su dobro savladali osnovne operacije sa racionalnim izrazima. Neki učenici imaju poteškoće sa složenijim zadacima, potrebno je dodatno vežbanje.",
+    "odlozeno": [
+      "Jedan čas zbog školske ekskurzije",
+      "Domaći zadatak za nedelju 3 zbog tehničkih problema"
+    ],
+    "nadoknada": "Odloženi čas će biti nadoknađen u novembru. Domaći zadatak je dat učeniciima na sledećem času."
+  },
+  "napomene": "Mesec oktobar je fokusiran na završetak algebarskih tema. Učenici pokazuju dobro razumevanje osnovnih koncepta, ali potrebno je više vežbanja sa složenijim zadacima. Priprema za polugodišnji test je u toku."
+}

@@ -1,0 +1,48 @@
+{
+  "datum": "2025-10-15",
+  "razred": "II",
+  "redniBrojCasa": 3,
+  "tema": "Racionalni izrazi - Sabiranje i oduzimanje",
+  "ciljCasa": "Učenici će naučiti da sabiraju i oduzimaju racionalne izraze pronalaženjem zajedničkog imenioca",
+  "ishodUcenja": "Na kraju časa, učenik će moći da sabere i oduzme dva racionalna izraza sa različitim imeniocima, pronalaženjem zajedničkog imenioca i primenom odgovarajućih pravila",
+  "metoda": "Kombinovana metoda - predavanje sa aktivnim učešćem učenika",
+  "aktivnosti": [
+    "Pregled prethodnog gradiva - pojednostavljivanje racionalnih izraza (5 min)",
+    "Uvod u sabiranje racionalnih izraza - teorijski deo (10 min)",
+    "Rešavanje primera na tabli - zajednički rad (15 min)",
+    "Rad u parovima - vežbanje zadataka (15 min)",
+    "Kratki test razumevanja - formativno ocenjivanje (5 min)"
+  ],
+  "sredstva": [
+    "Tabla i marker",
+    "Udžbenik matematike za II razred gimnazije",
+    "Radni listovi sa zadacima",
+    "Kalkulatori za proveru rezultata"
+  ],
+  "materijali": [
+    "Radni list 'Sabiranje i oduzimanje racionalnih izraza'",
+    "Primeri sa rešenjima",
+    "Dodatni zadaci za napredne učenike"
+  ],
+  "procena": {
+    "tip": "formativna",
+    "kriterijumi": [
+      "Tačnost u pronalaženju zajedničkog imenioca",
+      "Korektnost primene pravila za sabiranje/oduzimanje",
+      "Pojednostavljivanje konačnog rezultata",
+      "Logičko rezonovanje u rešavanju zadataka"
+    ],
+    "zadatak": "Rešiti 5 zadataka sa sabiranjem i oduzimanjem racionalnih izraza različitih složenosti"
+  },
+  "trajanje": 45,
+  "diferencijacija": {
+    "zaNapredne": "Dodatni zadaci sa složenijim racionalnim izrazima i primena u rešavanju jednačina",
+    "zaSpore": "Dodatno objašnjenje korak po korak, više primera i vežbanja sa jednostavnijim izrazima",
+    "individualniPristup": "Marija Petrović - dodatna podrška zbog poteškoća sa algebrom; Marko Jovanović - dodatni izazovni zadaci"
+  },
+  "domaci": "Vežbe 6-10 iz udžbenika, strana 48-50. Posebno obratiti pažnju na zadatke 8 i 10.",
+  "napomene": "Posebna pažnja na učenike koji imaju poteškoće sa algebarskim operacijama. Koristiti vizuelne pomoćne materijale za bolje razumevanje koncepta zajedničkog imenioca.",
+  "realizovano": true,
+  "komentariRealizacije": "Čas je prošao veoma dobro. Učenici su aktivno učestvovali i pokazali dobro razumevanje gradiva. Marija je imala poteškoće na početku, ali je sa dodatnom pomoći uspešno rešila zadatke. Marko je brzo savladao osnovne koncepte i radili smo dodatne izazovne zadatke.",
+  "procenatOstvarenja": 90
+}
