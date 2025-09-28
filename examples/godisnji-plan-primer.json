@@ -1,0 +1,267 @@
+{
+  "predmet": "Matematika",
+  "razredi": ["II"],
+  "nedeljniFond": 4,
+  "ukupniFond": 144,
+  "glavniCiljevi": [
+    "Savladavanje algebarskih izraza i operacija",
+    "Uvođenje osnova trigonometrije",
+    "Razvoj veštine rešavanja problema",
+    "Priprema za eksterni test i dalje obrazovanje",
+    "Razvijanje logičkog mišljenja i analitičkih veština"
+  ],
+  "learningOutcomes": [
+    {
+      "jedinica": "Algebra - Polinomi",
+      "ishodi": [
+        "Učenik razlikuje stepen polinoma",
+        "Učenik izvršava osnovne operacije nad polinomima",
+        "Učenik faktorizuje polinome",
+        "Učenik rešava zadatke primene polinoma"
+      ],
+      "casovi": 16,
+      "mesec": "Septembar",
+      "nedelje": ["1", "2", "3", "4"]
+    },
+    {
+      "jedinica": "Algebra - Racionalni izrazi",
+      "ishodi": [
+        "Učenik pojednostavljuje racionalne izraze",
+        "Učenik sabira i oduzima racionalne izraze",
+        "Učenik množi i deli racionalne izraze",
+        "Učenik rešava jednačine sa racionalnim izrazima"
+      ],
+      "casovi": 12,
+      "mesec": "Oktobar",
+      "nedelje": ["1", "2", "3"]
+    },
+    {
+      "jedinica": "Trigonometrija - Osnovni pojmovi",
+      "ishodi": [
+        "Učenik definiše trigonometrijske funkcije",
+        "Učenik računa vrednosti trigonometrijskih funkcija",
+        "Učenik koristi trigonometrijske identitete",
+        "Učenik rešava trigonometrijske jednačine"
+      ],
+      "casovi": 20,
+      "mesec": "Novembar",
+      "nedelje": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "jedinica": "Trigonometrija - Sinus i kosinus teorema",
+      "ishodi": [
+        "Učenik primenjuje sinus teoremu",
+        "Učenik primenjuje kosinus teoremu",
+        "Učenik rešava trouglove",
+        "Učenik rešava zadatke primene trigonometrije"
+      ],
+      "casovi": 16,
+      "mesec": "Decembar",
+      "nedelje": ["1", "2", "3", "4"]
+    },
+    {
+      "jedinica": "Analiza funkcija - Linearna funkcija",
+      "ishodi": [
+        "Učenik definiše linearnu funkciju",
+        "Učenik grafički prikazuje linearnu funkciju",
+        "Učenik određuje svojstva linearne funkcije",
+        "Učenik rešava zadatke primene linearne funkcije"
+      ],
+      "casovi": 12,
+      "mesec": "Januar",
+      "nedelje": ["1", "2", "3"]
+    },
+    {
+      "jedinica": "Analiza funkcija - Kvadratna funkcija",
+      "ishodi": [
+        "Učenik definiše kvadratnu funkciju",
+        "Učenik grafički prikazuje kvadratnu funkciju",
+        "Učenik određuje ekstremne vrednosti",
+        "Učenik rešava kvadratne jednačine"
+      ],
+      "casovi": 20,
+      "mesec": "Februar",
+      "nedelje": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "jedinica": "Analiza funkcija - Eksponencijalna funkcija",
+      "ishodi": [
+        "Učenik definiše eksponencijalnu funkciju",
+        "Učenik grafički prikazuje eksponencijalnu funkciju",
+        "Učenik rešava eksponencijalne jednačine",
+        "Učenik primenjuje eksponencijalne funkcije u praksi"
+      ],
+      "casovi": 16,
+      "mesec": "Mart",
+      "nedelje": ["1", "2", "3", "4"]
+    },
+    {
+      "jedinica": "Analiza funkcija - Logaritamska funkcija",
+      "ishodi": [
+        "Učenik definiše logaritamsku funkciju",
+        "Učenik grafički prikazuje logaritamsku funkciju",
+        "Učenik rešava logaritamske jednačine",
+        "Učenik primenjuje logaritamske funkcije u praksi"
+      ],
+      "casovi": 16,
+      "mesec": "April",
+      "nedelje": ["1", "2", "3", "4"]
+    },
+    {
+      "jedinica": "Ponavljanje i priprema za test",
+      "ishodi": [
+        "Učenik ponavlja ključne koncepte",
+        "Učenik rešava složene zadatke",
+        "Učenik priprema se za eksterni test",
+        "Učenik integriše znanja iz različitih oblasti"
+      ],
+      "casovi": 16,
+      "mesec": "Maj",
+      "nedelje": ["1", "2", "3", "4"]
+    }
+  ],
+  "assessmentPlan": [
+    {
+      "tip": "formativno",
+      "opis": "Kratki kvizovi svakih 3 nedelje za proveru razumevanja",
+      "mesec": "Septembar",
+      "casovi": 2
+    },
+    {
+      "tip": "summativno",
+      "opis": "Test posle svake teme - polinomi",
+      "mesec": "Septembar",
+      "casovi": 2
+    },
+    {
+      "tip": "formativno",
+      "opis": "Kratki kvizovi svakih 3 nedelje za proveru razumevanja",
+      "mesec": "Oktobar",
+      "casovi": 2
+    },
+    {
+      "tip": "summativno",
+      "opis": "Test posle svake teme - racionalni izrazi",
+      "mesec": "Oktobar",
+      "casovi": 2
+    },
+    {
+      "tip": "formativno",
+      "opis": "Kratki kvizovi svakih 3 nedelje za proveru razumevanja",
+      "mesec": "Novembar",
+      "casovi": 2
+    },
+    {
+      "tip": "summativno",
+      "opis": "Test posle svake teme - trigonometrija",
+      "mesec": "Novembar",
+      "casovi": 2
+    },
+    {
+      "tip": "projekat",
+      "opis": "Timski projekat - primena trigonometrije u praksi",
+      "mesec": "Decembar",
+      "casovi": 4
+    },
+    {
+      "tip": "summativno",
+      "opis": "Polugodišnji test - algebra i trigonometrija",
+      "mesec": "Januar",
+      "casovi": 2
+    },
+    {
+      "tip": "formativno",
+      "opis": "Kratki kvizovi svakih 3 nedelje za proveru razumevanja",
+      "mesec": "Februar",
+      "casovi": 2
+    },
+    {
+      "tip": "summativno",
+      "opis": "Test posle svake teme - kvadratna funkcija",
+      "mesec": "Februar",
+      "casovi": 2
+    },
+    {
+      "tip": "formativno",
+      "opis": "Kratki kvizovi svakih 3 nedelje za proveru razumevanja",
+      "mesec": "Mart",
+      "casovi": 2
+    },
+    {
+      "tip": "summativno",
+      "opis": "Test posle svake teme - eksponencijalna funkcija",
+      "mesec": "Mart",
+      "casovi": 2
+    },
+    {
+      "tip": "formativno",
+      "opis": "Kratki kvizovi svakih 3 nedelje za proveru razumevanja",
+      "mesec": "April",
+      "casovi": 2
+    },
+    {
+      "tip": "summativno",
+      "opis": "Test posle svake teme - logaritamska funkcija",
+      "mesec": "April",
+      "casovi": 2
+    },
+    {
+      "tip": "summativno",
+      "opis": "Godišnji test - sve oblasti",
+      "mesec": "Maj",
+      "casovi": 2
+    }
+  ],
+  "dodatnaNastava": {
+    "opis": "Konsultacije za učenike koji imaju poteškoće sa gradivom",
+    "casovi": 2,
+    "mesec": "Oktobar"
+  },
+  "extracurricular": [
+    {
+      "aktivnost": "Mentorstvo učenicima za matematička takmičenja",
+      "mesec": "Septembar",
+      "casovi": 4,
+      "opis": "Priprema učenika za opštinsko takmičenje iz matematike"
+    },
+    {
+      "aktivnost": "Matematički klub",
+      "mesec": "Oktobar",
+      "casovi": 8,
+      "opis": "Mesečni sastanci kluba sa rešavanjem zanimljivih zadataka"
+    },
+    {
+      "aktivnost": "Organizacija školske matematičke olimpijade",
+      "mesec": "Decembar",
+      "casovi": 6,
+      "opis": "Priprema i organizacija takmičenja za sve razrede"
+    },
+    {
+      "aktivnost": "Ekskurzija u matematički muzej",
+      "mesec": "Mart",
+      "casovi": 2,
+      "opis": "Poseta muzeju matematike u Beogradu"
+    }
+  ],
+  "professionalDevelopment": [
+    {
+      "aktivnost": "Kurs diferencirane nastave",
+      "mesec": "Oktobar",
+      "casovi": 16,
+      "opis": "Usavršavanje u primeni diferencirane nastave u matematici"
+    },
+    {
+      "aktivnost": "Seminar za digitalne alate u nastavi matematike",
+      "mesec": "Mart",
+      "casovi": 12,
+      "opis": "Učenje korišćenja GeoGebra i drugih digitalnih alata"
+    },
+    {
+      "aktivnost": "Konferencija nastavnika matematike",
+      "mesec": "April",
+      "casovi": 8,
+      "opis": "Učešće na godišnjoj konferenciji nastavnika matematike"
+    }
+  ],
+  "napomene": "Plan je prilagođen za gimnazijski program. Posebna pažnja se posvećuje razvoju logičkog mišljenja i veština rešavanja problema. Uključeni su elementi diferencijacije za učenike različitih sposobnosti. Plan omogućava fleksibilnost u prilagođavanju tempu učenja u zavisnosti od potreba učenika."
+}
